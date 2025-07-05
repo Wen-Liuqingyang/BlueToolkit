@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueToolkit.ConsoleVersion", "BlueToolkit.Console\BlueToolkit.ConsoleVersion.csproj", "{A2C79AE0-C22E-4AB4-A065-C6F3291C4807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C79AE0-C22E-4AB4-A065-C6F3291C4807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C79AE0-C22E-4AB4-A065-C6F3291C4807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C79AE0-C22E-4AB4-A065-C6F3291C4807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C79AE0-C22E-4AB4-A065-C6F3291C4807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDD513F-9C51-4F0C-9290-2E9CCC106FD6}
+	EndGlobalSection
+EndGlobal
